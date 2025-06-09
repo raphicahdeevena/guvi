@@ -1,2 +1,2 @@
 # guvi
-GUVI Oreintation Session on Java,DS 
+GUVI Oreintation Session on Java,DSA
